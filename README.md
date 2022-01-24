@@ -5,7 +5,7 @@ Its based on:
 ## Basic information
 
 | Package manager |  apk                                                                                |
-| --------------- | ------------------------------------------                                          |
+| :--------------- | :------------------------------------------                                          |
 | Project name    |  [quay.io/zennms.io/zennms-base-image](HTTPS://quay.io/zennms.io/zennms-base-image) |
 | Docker image    |  quay.io/zennms.io/zennms-base-image:1.0.0                                          |
 | Platform        |  linux/amd64                                                                        |
