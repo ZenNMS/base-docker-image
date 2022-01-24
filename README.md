@@ -4,13 +4,12 @@ Its based on:
 
 ## Basic information
 
-|                  |                                            |
-| ---------------- | ------------------------------------------ |
-| Package manager: |  apk                                       |
-| Project name:    |  quay.io/zennms.io/zennms-base-image       |
-| Docker image:    |  quay.io/zennms.io/zennms-base-image:1.0.0 |
-| Platform:        |  linux/amd64                               |
-| Base image:      |  php:8.1.2-fpm-alpine3.15                  |
+| Package manager |  apk                                                                                |
+| --------------- | ------------------------------------------                                          |
+| Project name    |  [quay.io/zennms.io/zennms-base-image](HTTPS://quay.io/zennms.io/zennms-base-image) |
+| Docker image    |  quay.io/zennms.io/zennms-base-image:1.0.0                                          |
+| Platform        |  linux/amd64                                                                        |
+| Base image      |  php:8.1.2-fpm-alpine3.15                                                           |
 
 Alpine 3.15
 PHP 8.1.2 (cli) (NTS)
