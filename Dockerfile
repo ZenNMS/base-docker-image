@@ -2,6 +2,8 @@ FROM composer:2.2.4 AS composer
 
 FROM php:8.1.2-fpm-alpine3.15
 
+LABEL maintainer="Angel Campos"
+
 ARG PHP_CONF_PATH="/usr/local/etc/php"
 
 ENV COMPOSER_ALLOW_SUPERUSER 1
